@@ -358,6 +358,10 @@ img {
   transform: scale(1.1);
 }
 
+#smaller_img {
+  height: 50%
+}
+
 /* ===== CONTACT =====*/
 .contact__input {
   width: 100%;
